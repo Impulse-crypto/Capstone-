@@ -1,6 +1,5 @@
 # Capstone-
 This is the capstone project for IBM data science professional courses)
-(find Presentation slide here)
 
 In this project we will focus on using the location data to explore interesting problems in real word!
 
@@ -19,6 +18,4 @@ explore and cluster the neighborhoods in Toronto3
 Then, you will you the build model to pridict the number of Chinese restaruant in your city and compare with exiting number of Chinese restaruant. And a potaitial place to start your business!
 
 Pick a city
-In this project, we will us Columbus,OH as example, to see how we can achieve it. Neighborhoods infomation is get from city-data.com
-
-Discover new city Columbus in this notebook
+In this project, we will use Columbus,OH as example, to see how we can achieve it. Neighborhoods infomation is get from city-data.co
